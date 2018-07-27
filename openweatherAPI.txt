@@ -1,0 +1,2 @@
+#WEATHERMAP API KEY
+api_key = "0ed1fcbcd6016f63beee7e6c5e93547b"
